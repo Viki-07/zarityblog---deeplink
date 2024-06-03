@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874691514731",
+    "project_id": "zarityblog",
+    "storage_bucket": "zarityblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874691514731:android:9a51c7ad1229450ffbbc2e",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHMn3QcxxrumteN2FTe3C55ETj559sWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874691514731:android:95ac8fc3fbc22121fbbc2e",
+        "android_client_info": {
+          "package_name": "com.example.zarityblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHMn3QcxxrumteN2FTe3C55ETj559sWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

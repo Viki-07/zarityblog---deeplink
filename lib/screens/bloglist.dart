@@ -19,6 +19,7 @@ class BlogListPage extends StatelessWidget {
           : ListView.builder(
               itemCount: blogProvider.blogPosts.length,
               itemBuilder: (context, index) {
+                blogProvider.addHive(blogProvider.blogPosts[index]);
                 var blogPost = blogProvider.blogPosts[index];
                 return BlogPostTile(
                     blogPost:
